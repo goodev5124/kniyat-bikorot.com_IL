@@ -1,3 +1,128 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://kniyat-bikorot.com/</loc>
+        <lastmod>2026-08-05</lastmod>
+        <image:image>
+            <image:loc>https://kniyat-bikorot.com/kniyat-bikorot-google-logo.png</image:loc>
+            <image:caption>ביקורות גוגל חיוביות לביסוס המוניטין שלך ברשת.</image:caption>
+            <image:title>לקנות ביקורות גוגל</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://kniyat-bikorot.com/kniyat-bikorot-google.png</image:loc>
+            <image:caption>קניית ביקורות גוגל, שירות רכישת ביקורות גוגל.</image:caption>
+            <image:title>קניית ביקורות גוגל</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://kniyat-bikorot.com/bikorot-google-esek.webp</image:loc>
+            <image:caption>זכו באמינות בגוגל מפות הודות לביקורות לקוחות.</image:caption>
+            <image:title>קניית ביקורות גוגל חיוביות</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://kniyat-bikorot.com/profil-google-my-business.webp</image:loc>
+            <image:caption>פרופיל Google My Business שמושך וממיר.</image:caption>
+            <image:title>קניית ביקורות גוגל my business</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/bikorot-google-amitiot.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/bikorot-google-mehimanot.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/bikorot-google-mezuyafot.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/bikorot-google-my-business.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/bikorot-google-zolot.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/hagbarat-bikorot-google.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/hasarat-bikorot-google.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-5-kochavim.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-beit-kafe.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-chashmalai.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-chiuviot.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-esek.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-instalator.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-malon.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-metavech-nadlan.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-misada.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-mispara.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-musach.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-orech-din.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-rofe-shinaim.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-rofe.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-shiputznik.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-shliliot.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/kniyat-bikorot-google-tzimmer.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+    <url>
+        <loc>https://kniyat-bikorot.com/shipur-derug-google.html</loc>
+        <lastmod>2026-08-05</lastmod>
+    </url>
+</urlset>
