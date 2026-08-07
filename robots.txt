@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /toda.html
 
-# Sitemap
 Sitemap: https://kniyat-bikorot.com/sitemap.xml
